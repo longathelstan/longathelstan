@@ -2,7 +2,7 @@
 
 
 > ### ⚙️ Favourite Languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=600&lines=js,;python,;html-css,;java,;kotlin,;)](https://ayo.so/longathelstan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1100&color=F7007A&random=false&width=435&lines=python%2C;kotlin%2C;html+-+css%2C;js%2C;svelte%2C;c%2B%2B.)](https://ayo.so/longathelstan)
 
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
