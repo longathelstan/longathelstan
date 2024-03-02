@@ -24,7 +24,7 @@
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  <div><img src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/></div>  
 
-<br/>  
+<p>👀 &nbsp;Visitors</p>  
 <div>
 <img src="https://komarev.com/ghpvc/?username=toidicakhia&&style=flat-square"/>
 </div>  
