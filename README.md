@@ -22,11 +22,13 @@
    [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/longathelstan) 
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
- <div><img src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/></div>  
-
-<p>👀 &nbsp;Visitors</p>  
+ <div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+ </div>  
+ 
 <div>
+ <p>👀 &nbsp;Visitors</p> 
 <img src="https://komarev.com/ghpvc/?username=toidicakhia&&style=flat-square"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longathelstan&layout=compact"/>
 </div>  
   
