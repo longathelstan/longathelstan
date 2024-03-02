@@ -27,8 +27,3 @@
   <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
  </div>  
  
-<div>
- <p>👀 &nbsp;Visitors</p> 
-<img src="https://komarev.com/ghpvc/?username=toidicakhia&&style=flat-square"/>
-</div>  
-  
