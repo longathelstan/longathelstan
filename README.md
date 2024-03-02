@@ -1,5 +1,5 @@
 
-### <div align="center">I'm longathelstan, a developer</div>  
+### I'm longathelstan, a developer
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
