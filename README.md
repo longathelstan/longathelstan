@@ -27,6 +27,6 @@
 <p>👀 &nbsp;Visitors</p>  
 <div>
 <img src="https://komarev.com/ghpvc/?username=toidicakhia&&style=flat-square"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longathelstan&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longathelstan&layout=compact"/>
 </div>  
   
