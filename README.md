@@ -24,6 +24,6 @@
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  <div>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/>
-  <img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
  </div>  
  
