@@ -75,7 +75,7 @@
 <div align="center">
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-<a href="https://tauri.dev/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dtauri-apps.tauri-vscode&psig=AOvVaw1bcDbWtkrJ_ZqMUbOM77wF&ust=1723686693201000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiQyLqv84cDFQAAAAAdAAAAABAE" alt="Tauri" height="50" /></a>
+<a href="https://tauri.dev/" target="_blank"><img style="margin: 10px" src="https://tauri-apps.gallerycdn.vsassets.io/extensions/tauri-apps/tauri-vscode/0.2.6/1679072733881/Microsoft.VisualStudio.Services.Icons.Default" alt="Tauri" height="50" /></a>
 </div>
 
 </td>
