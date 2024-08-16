@@ -1,6 +1,8 @@
 
 ### I'm longathelstan, you can call me lowng
 
+ [![Discord Presence](https://lanyard.kyrie25.me/api/1003289653014691911)](https://discord.com/users/1003289653014691911)
+
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
@@ -94,6 +96,4 @@
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/>
  </div>
- 
- [![Discord Presence](https://lanyard.kyrie25.me/api/1003289653014691911)](https://discord.com/users/1003289653014691911)
  
