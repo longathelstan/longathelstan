@@ -1,7 +1,10 @@
 
 ### I'm longathelstan, you can call me lowng
 
- [![Discord Presence](https://lanyard.kyrie25.me/api/1003289653014691911)](https://discord.com/users/1003289653014691911)
+★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
+
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/1003289653014691911)](https://discord.com/users/1003289653014691911)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
