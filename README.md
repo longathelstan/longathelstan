@@ -92,7 +92,7 @@
  > ### 🎈 Socials 
  
    [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@longathelstan)
-   [![Info](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tlowng.minusmc.xyz)
+   [![Info](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://longathelstan.xyz)
    [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1003289653014691911)
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
