@@ -4,7 +4,7 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/1003289653014691911?imgStyle=square&imgBorderRadius=15px&waveColor=7782BE&waveSpotifyColor=FF597B)](https://discord.com/users/1003289653014691911)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1003289653014691911?theme=&showDisplayName=false&borderRadius=30px&idleMessage=iuhaanhcuc&hideActivity=false&bg=FEFFC5)](https://discord.com/users/1003289653014691911)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
