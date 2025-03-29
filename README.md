@@ -3,8 +3,7 @@
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1003289653014691911?theme=&showDisplayName=false&borderRadius=30px&idleMessage=focusoncareer!&hideActivity=false&bg=FEFFC5)](https://discord.com/users/1003289653014691911)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1003289653014691911?showDisplayName=true&theme=dark&borderRadius=30px&idleMessage=focusoncareer)](https://discord.com/users/1003289653014691911)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
