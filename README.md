@@ -44,5 +44,5 @@
 ---
 
 > ✨ Theme inspired by **Catppuccin Mocha**  
-> 🦄 Feel free to vibe at [tlowng.is-a.dev](https://tlowng.is-a.dev/)
+> 🦄 Feel free to vibe at [tlowng.is-a.dev](https://longathelstan.xyz/)
 
