@@ -91,7 +91,4 @@
    [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1003289653014691911)
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
- <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=longathelstan&show_icons=true&count_private=true&hide_border=true"/>
- </div>
  
